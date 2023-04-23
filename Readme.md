@@ -1,1 +1,4 @@
-Data science project
+Repository for zindi hackathon 
+
+
+&copy 2022
